@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @micah-bryant
+- 👀 I’m interested in medical device development.
+- 🌱 I’m currently a Mechanical Engineering master's student at UCSD
+- 📫 Email: micah.bryant14@gmail.com
